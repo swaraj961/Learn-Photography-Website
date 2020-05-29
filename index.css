@@ -1,3 +1,13 @@
-.margin-course {
-    margin-top: -110px;
-}
+    .margin-course {
+        margin-top: -110px;
+        margin-bottom: 50px;
+        /* background-color: #1A202C; */
+    }
+    
+    .margin-hero {
+        margin-top: -80px;
+    }
+    
+    .bg {
+        background-color: #1A202C;
+    }
